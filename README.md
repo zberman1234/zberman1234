@@ -1,5 +1,10 @@
-🛠️ [Belstad](https://apps.apple.com/us/app/belstad/id6618159376])
+<div id="header" align="center">
+  <h1>Hi, I'm Zach&nbsp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
+
 📫 zachberman [at] ucla [dot] edu
+
+🛠️ I'm building autonomous news @ [Belstad](https://apps.apple.com/us/app/belstad/id6618159376])
 
 <!--
 **zberman1234/zberman1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
