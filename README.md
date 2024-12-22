@@ -2,7 +2,7 @@
   <h1>Hi, I'm Zach&nbsp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-📫 zachberman [at] ucla [dot] edu
+📫 zberman1234 [at] gmail [dot] com
 
 🛠️ I'm building autonomous news @ [Belstad](https://apps.apple.com/us/app/belstad/id6618159376)
 
