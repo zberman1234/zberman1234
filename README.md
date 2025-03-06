@@ -4,7 +4,7 @@
 
 📫 zberman1234 [at] gmail [dot] com
 
-🛠️ I'm building autonomous news @ [Belstad](https://apps.apple.com/us/app/belstad/id6618159376)
+🛠️ I built autonomous news @ [Belstad](https://apps.apple.com/us/app/belstad/id6618159376)
 
 <!--
 **zberman1234/zberman1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
